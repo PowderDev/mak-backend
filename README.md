@@ -1,8 +1,8 @@
-# Web3 fullstack project
+# Backend for Mak Web3 Project
 
 What is this project consist of?
 
-- Mak Stablecoin =
+- Mak Stablecoin
     - Fully tested collateralized stablecoin.
     - Takes LINK (potentially any ERC20) as collateral and mints MSC
     - Uses Chainlink price feeds to determine the collateralization ratio
